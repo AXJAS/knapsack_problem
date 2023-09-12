@@ -1,6 +1,3 @@
-Bin Packing
-==============================
-
 # Knapsack Problem Solver with Google OR-Tools
 
 ## Executive Summary
